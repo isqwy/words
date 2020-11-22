@@ -16,18 +16,14 @@ title: bang
 邦
 邫
 幚
-
-bǎng
+## bǎng
 榜
 绑
 膀
 牓
 髈
 綁
-
-
-
-bàng
+## bàng
 玤
 磅
 硥
