@@ -22,7 +22,7 @@ title: chang
 闛
 錩
 阊
-cháng
+## cháng
 場
 徜
 瑺
@@ -53,16 +53,7 @@ cháng
 镸
 嫦
 萇
-
-
-
-
-
-
-
-
-
-chǎng
+## chǎng
 場
 惝
 敞
