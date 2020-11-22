@@ -8,7 +8,7 @@ title: chuo
 踔
 逴
 戳
-chuò
+## chuò
 餟
 惙
 磭
