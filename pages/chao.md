@@ -21,7 +21,7 @@ title: chao
 鈔
 钞
 訬
-cháo
+## cháo
 窲
 朝
 巣
