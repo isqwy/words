@@ -4,8 +4,7 @@ title: chai
 
 ## [[chāi]]
 ## [[chái]]
-## chǎi
-茝
+## [[chǎi]]
 ## chài
 虿
 瘥
