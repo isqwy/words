@@ -38,8 +38,7 @@ title: bin
 豳
 鑌
 bǐn
-
-bìn
+## bìn
 鬢
 摈
 擯
