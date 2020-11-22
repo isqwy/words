@@ -5,7 +5,7 @@ title: ang
 ## āng
 骯
 肮
-áng
+## áng
 昂
 卬
 仰
