@@ -9,7 +9,7 @@ title: chuan
 川
 巛
 氚
-chuán
+## chuán
 圌
 篅
 暷
@@ -25,12 +25,7 @@ chuán
 船
 輲
 遄
-
-
-
-
-
-chuǎn
+## chuǎn
 堾
 僢
 舛
