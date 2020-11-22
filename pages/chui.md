@@ -6,9 +6,7 @@ title: chui
 吹
 龡
 炊
-
-
-chuí
+## chuí
 硾
 捶
 搥
