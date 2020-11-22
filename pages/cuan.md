@@ -11,8 +11,7 @@ title: cuan
 鋑
 攛
 撺
-
-cuán
+## cuán
 攒
 攢
 穳
