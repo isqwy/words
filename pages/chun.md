@@ -20,8 +20,7 @@ title: chun
 萅
 輴
 鰆
-
-chún
+## chún
 犉
 純
 滣
