@@ -15,11 +15,7 @@ title: chou
 婤
 跾
 醔
-
-
-
-
-chóu
+## chóu
 幬
 雦
 雠
