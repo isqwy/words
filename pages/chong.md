@@ -22,13 +22,7 @@ title: chong
 衝
 蹖
 忡
-
-
-
-
-
-
-chóng
+## chóng
 爞
 痋
 种
@@ -42,13 +36,7 @@ chóng
 褈
 重
 隀
-
-
-
-
-
-
-chǒng
+## chǒng
 宠
 寵
 埫
