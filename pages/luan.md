@@ -33,15 +33,7 @@ title: luan
 銮
 鑾
 鵉
-
-
-
-
-
-
-
-
-luǎn
+## luǎn
 卵
 覶
 ## luàn
