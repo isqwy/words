@@ -44,9 +44,7 @@ title: luan
 luǎn
 卵
 覶
-
-
-luàn
+## luàn
 乿
 亂
 乱
