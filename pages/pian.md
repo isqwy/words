@@ -30,15 +30,12 @@ title: pian
 蹁
 賆
 跰
-
-
-
-piǎn
+## piǎn
 諞
 貵
 谝
 覑
-piàn
+## piàn
 騗
 騙
 骗
